@@ -14,25 +14,6 @@ A  machine learning model that detects whether a given message is **spam** or **
 
 ---
 
-## 🗂️ Project Structure
-
-spam-detector/
-│
-├── data/
-│ ├── spam.csv
-│ └── cleaned_spam.csv
-│ └── preprocessed_spam.csv
-│
-├── models/
-│ ├── spam_classifier.joblib
-│ └── tfidf_vectorizer.joblib
-│
-├── preprocess.py
-├── model_train.py
-├── predict.py
-├── requirements.txt
-│──clean.py
-└── README.md
 
 ### Example Predictions
 
